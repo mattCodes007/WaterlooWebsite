@@ -1,0 +1,1753 @@
+{
+  "source": "User-supplied photographs, November 10, 2026",
+  "sourceDate": "2026-11-10",
+  "notes": [
+    "Drinks absent from these photos are excluded. Beer/cider prices are omitted because the photographed lists do not show them.",
+    "Fire Cracker uses orange on The Cash List and lemon under Old Fashioneds, matching the two printed recipes.",
+    "The Sunday–Friday $5 happy hour house margarita offer was explicitly confirmed by the user previously; Saturday’s all-day offer is also printed in the photos."
+  ],
+  "drinks": [
+    {
+      "name": "The Cash List",
+      "description": "",
+      "items": [
+        {
+          "name": "The Front Porch",
+          "prices": [
+            "$11.00"
+          ],
+          "description": "Bergamot liqueur, St. Germain, mint, lime, Champagne, and soda water."
+        },
+        {
+          "name": "Fire Cracker",
+          "prices": [
+            "$13.00"
+          ],
+          "description": "Sazerac rye whiskey, house-made cinnamon simple syrup, Angostura bitters, and orange."
+        },
+        {
+          "name": "Sandia en Fuego",
+          "prices": [
+            "$12.00"
+          ],
+          "description": "House-infused jalapeño tequila or Suerte Blanco, watermelon, triple sec, lime, and agave."
+        },
+        {
+          "name": "Rosemary’s Baby",
+          "prices": [
+            "$12.00"
+          ],
+          "description": "Cazadores Reposado, orange agua fresca, and fresh rosemary syrup."
+        },
+        {
+          "name": "Hermanos con Leches",
+          "prices": [
+            "$10.00"
+          ],
+          "description": "Barrel-aged amaretto, local Colorado milk, and an Amarena cherry."
+        }
+      ],
+      "theme": "cash-list"
+    },
+    {
+      "name": "Margaritas",
+      "description": "",
+      "items": [
+        {
+          "name": "Waterloo Margarita",
+          "prices": [
+            "$9.00"
+          ],
+          "description": "Suerte Blanco 100% agave tequila, triple sec, lime juice, and agave."
+        },
+        {
+          "name": "Lone Star",
+          "prices": [
+            "$12.00"
+          ],
+          "description": "100% agave tequila infused with fresh jalapeño, St. Germain, lime juice, and agave."
+        },
+        {
+          "name": "Blueberry-Habanero",
+          "prices": [
+            "$12.00"
+          ],
+          "description": "100% agave tequila infused with blueberries and habaneros, triple sec, lime juice, orange juice, and agave."
+        },
+        {
+          "name": "Mango-Rita",
+          "prices": [
+            "$11.00"
+          ],
+          "description": "Suerte Blanco 100% agave tequila, triple sec, mango purée, lime juice, and agave."
+        },
+        {
+          "name": "Cactus Smoke",
+          "prices": [
+            "$11.00"
+          ],
+          "description": "Pura Vida mezcal, triple sec, lime juice, orange juice, and agave."
+        },
+        {
+          "name": "Blood Orange",
+          "prices": [
+            "$11.00"
+          ],
+          "description": "Suerte Blanco 100% agave tequila, triple sec, Natalie’s Organic blood orange juice, lime juice, and agave."
+        },
+        {
+          "name": "Strawberry",
+          "prices": [
+            "$11.00"
+          ],
+          "description": "House-infused strawberry tequila, triple sec, lime juice, and agave."
+        },
+        {
+          "name": "Sandia en Fuego",
+          "prices": [
+            "$12.00"
+          ],
+          "description": "House-infused jalapeño tequila or Suerte Blanco, watermelon, triple sec, lime, and agave."
+        }
+      ]
+    },
+    {
+      "name": "House Cocktails",
+      "description": "",
+      "items": [
+        {
+          "name": "Cucumber Lemonade",
+          "prices": [
+            "$11.00"
+          ],
+          "description": "Hendrick’s gin, St. Germain, cucumber and lemon juice, and simple syrup."
+        },
+        {
+          "name": "Texas Tea",
+          "prices": [
+            "$10.00"
+          ],
+          "description": "Deep Eddy Peach vodka, iced tea, and house-made lemonade."
+        },
+        {
+          "name": "Aperol Spritz",
+          "prices": [
+            "$10.00"
+          ],
+          "description": "Aperol, orange bitters, prosecco, and soda water."
+        },
+        {
+          "name": "Barrel-Rested Negroni",
+          "prices": [
+            "$13.00"
+          ],
+          "description": "Barrel-rested gin, Aperol, Carpano Antica vermouth, and orange bitters."
+        },
+        {
+          "name": "Hawaiian Cowboy",
+          "prices": [
+            "$10.00"
+          ],
+          "description": "House-smoked pineapple-infused tequila and soda water."
+        },
+        {
+          "name": "Loominade",
+          "prices": [
+            "$9.00"
+          ],
+          "description": "Vodka, Luxardo cherry syrup, and lemonade."
+        },
+        {
+          "name": "Screen Door",
+          "prices": [
+            "$10.00"
+          ],
+          "description": "Absolut Pear vodka, lemonade, apple juice, and a splash of soda water."
+        },
+        {
+          "name": "Honeysuckle Rose",
+          "prices": [
+            "$10.00"
+          ],
+          "description": "Cathead Honeysuckle vodka, lemonade, and soda water."
+        },
+        {
+          "name": "Mojito",
+          "prices": [
+            "$10.00"
+          ],
+          "description": "Rum, simple syrup, lime, mint, and soda water. Add a flavor +$1."
+        },
+        {
+          "name": "Come On Son",
+          "prices": [
+            "$10.00"
+          ],
+          "description": "Ask Mike—if he is the flavor of the day."
+        },
+        {
+          "name": "Michelada Long Time",
+          "prices": [
+            "$9.00"
+          ],
+          "description": "Mexican lager with Bloody Mary mix and lime juice, served over ice in a chilled, salted glass."
+        },
+        {
+          "name": "Colorado Manhattan",
+          "prices": [
+            "$13.00"
+          ],
+          "description": "Breckenridge bourbon, Carpano Antica sweet vermouth, Peychaud’s bitters, and a Luxardo cherry."
+        },
+        {
+          "name": "O’ Sazerac",
+          "prices": [
+            "$13.00"
+          ],
+          "description": "Jefferson’s rye, Leopold Bros. absinthe, Regans’ orange bitters, simple syrup, and orange peel."
+        },
+        {
+          "name": "Espresso Martini",
+          "prices": [
+            "$12.00"
+          ],
+          "description": "Stoli Vanilla vodka, Kahlúa, and cold brew espresso."
+        },
+        {
+          "name": "Rocky Mountain Lemonade",
+          "prices": [
+            "$10.00"
+          ],
+          "description": "Leopold Bros. Rocky Mountain Blackberry whiskey and house-made lemonade."
+        }
+      ]
+    },
+    {
+      "name": "Old Fashioneds",
+      "description": "",
+      "items": [
+        {
+          "name": "Standard",
+          "prices": [
+            "$10.00"
+          ],
+          "description": "Roulette rye, aromatic and orange bitters, raw cane syrup, orange peel, and a Luxardo cherry."
+        },
+        {
+          "name": "Grandfather",
+          "prices": [
+            "$13.00"
+          ],
+          "description": "Knob Creek rye, aromatic and orange bitters, raw cane syrup, orange peel, and a Luxardo cherry."
+        },
+        {
+          "name": "Blues Palace",
+          "prices": [
+            "$13.00"
+          ],
+          "description": "Brenne Single Malt French whisky, blueberry turbinado simple syrup, and Regans’ orange bitters."
+        },
+        {
+          "name": "Humoso Viejo",
+          "prices": [
+            "$12.00"
+          ],
+          "description": "Pura Vida mezcal, aromatic and orange bitters, raw cane syrup, and orange peel."
+        },
+        {
+          "name": "Fire Cracker",
+          "prices": [
+            "$13.00"
+          ],
+          "description": "Sazerac rye whiskey, house-infused cinnamon simple syrup, Angostura bitters, and lemon."
+        },
+        {
+          "name": "Mellotes",
+          "prices": [
+            "$13.00"
+          ],
+          "description": "Roasted-corn-and-jalapeño-infused Mellow Corn whiskey, turbinado simple syrup, lime, and a sugar-salt rim."
+        },
+        {
+          "name": "Choose Your Own Adventure",
+          "prices": [],
+          "description": "Your choice of any Waterloo spirit, aromatic and orange bitters, raw cane syrup, orange peel, and a Luxardo cherry."
+        }
+      ]
+    },
+    {
+      "name": "Red Wine",
+      "description": "Ask your server about today’s selection.",
+      "items": [
+        {
+          "name": "Waterloo Red",
+          "prices": [
+            "$9.00",
+            "$36.00"
+          ],
+          "description": "Black cherry, juniper, anise, subtle tannins, and hints of vanilla.",
+          "priceLabels": [
+            "Glass",
+            "Bottle"
+          ]
+        },
+        {
+          "name": "Cabernet (CA)",
+          "prices": [
+            "$12.00",
+            "$48.00"
+          ],
+          "description": "Full-bodied, with currant, blackberry, tobacco, chocolate, and cedar notes.",
+          "priceLabels": [
+            "Glass",
+            "Bottle"
+          ]
+        },
+        {
+          "name": "Pinot Noir (CA)",
+          "prices": [
+            "$12.00",
+            "$48.00"
+          ],
+          "description": "Fresh strawberries, Bing cherries, violet candy, and toasted bread.",
+          "priceLabels": [
+            "Glass",
+            "Bottle"
+          ]
+        },
+        {
+          "name": "Argentinian Malbec",
+          "prices": [
+            "$12.00",
+            "$48.00"
+          ],
+          "description": "Plum, cherry, rosemary, and chocolate notes, with cassis, vanilla, and spiced dark berry fruit on the palate.",
+          "priceLabels": [
+            "Glass",
+            "Bottle"
+          ]
+        },
+        {
+          "name": "Rosé",
+          "prices": [
+            "$10.00",
+            "$40.00"
+          ],
+          "description": "A subtle blend of rose petal, pomegranate, and berries.",
+          "priceLabels": [
+            "Glass",
+            "Bottle"
+          ]
+        },
+        {
+          "name": "Red Sangria",
+          "prices": [
+            "$7.00"
+          ],
+          "description": "House recipe, served over ice."
+        }
+      ]
+    },
+    {
+      "name": "White Wine",
+      "description": "",
+      "items": [
+        {
+          "name": "Waterloo White (CA)",
+          "prices": [
+            "$9.00",
+            "$36.00"
+          ],
+          "description": "Soft, crisp notes of lemon, apple, and melon, with integrated oak.",
+          "priceLabels": [
+            "Glass",
+            "Bottle"
+          ]
+        },
+        {
+          "name": "Chardonnay (CA)",
+          "prices": [
+            "$12.00",
+            "$48.00"
+          ],
+          "description": "Layers of apricot, citrus, and green apple, with fresh honeysuckle and cinnamon.",
+          "priceLabels": [
+            "Glass",
+            "Bottle"
+          ]
+        },
+        {
+          "name": "Sauvignon Blanc (NZ)",
+          "prices": [
+            "$11.00",
+            "$44.00"
+          ],
+          "description": "Citrus aromas with hints of apple and tropical fruit.",
+          "priceLabels": [
+            "Glass",
+            "Bottle"
+          ]
+        },
+        {
+          "name": "Pinot Grigio (Italy)",
+          "prices": [
+            "$11.00",
+            "$44.00"
+          ],
+          "description": "Clean, crisp aromas of apple, citrus, and peach.",
+          "priceLabels": [
+            "Glass",
+            "Bottle"
+          ]
+        },
+        {
+          "name": "White Sangria",
+          "prices": [
+            "$7.00"
+          ],
+          "description": "House recipe, served over ice."
+        }
+      ]
+    },
+    {
+      "name": "Bubbles",
+      "description": "",
+      "items": [
+        {
+          "name": "Prosecco (Italy)",
+          "prices": [
+            "$9.00"
+          ],
+          "description": "Aromas of fresh citrus, honey, and white flowers."
+        },
+        {
+          "name": "Domaine Chandon Brut (CA)",
+          "prices": [
+            "$15.00 / split"
+          ],
+          "description": "Apple, pear, and citrus with a soft, dry finish."
+        },
+        {
+          "name": "Rosé Prosecco (Italy)",
+          "prices": [
+            "$11.00 / split"
+          ],
+          "description": "Vibrant red fruit with hints of flowers and red berries."
+        }
+      ]
+    },
+    {
+      "name": "Drafts",
+      "description": "",
+      "items": [
+        {
+          "name": "Avery IPA",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Odell 90 Schilling",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Upslope Craft Lager",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Guinness",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "PBR",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Aval Rosé Cider",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Bell’s Two Hearted Ale",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Crystal Springs Blood Orange Kölsch",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Telluride Face Down Brown",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Old Speckled Hen",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Modelo Especial",
+          "prices": [],
+          "description": ""
+        }
+      ],
+      "layout": "compact"
+    },
+    {
+      "name": "Bottles & Cans",
+      "description": "Ask about monthly can and bottle appearances.",
+      "items": [
+        {
+          "name": "Budweiser / Bud Light",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Coors Light",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Shiner Bock",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Miller Lite / Miller High Life",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Miller High Life Pony (7 oz)",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Sippin’ Pretty Sour",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Rainier (16 oz)",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Corona",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Montucky Cold Snack (16 oz)",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Daura Damm (Gluten-Removed)",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Guinness (Nonalcoholic)",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Corona (Nonalcoholic)",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Heineken (Nonalcoholic)",
+          "prices": [],
+          "description": ""
+        }
+      ],
+      "layout": "compact"
+    },
+    {
+      "name": "Ciders & Seltzers",
+      "description": "",
+      "items": [
+        {
+          "name": "2 Towns Apricot Cider",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "2 Towns Bad Apple Cider",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Assorted Seltzers",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Pama Seltzer",
+          "prices": [],
+          "description": ""
+        },
+        {
+          "name": "Blush Imperial Cider",
+          "prices": [],
+          "description": ""
+        }
+      ],
+      "layout": "compact"
+    },
+    {
+      "name": "Bourbon",
+      "description": "",
+      "items": [
+        {
+          "name": "Ezra Brooks (Well)",
+          "prices": [
+            "$7.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Knob Creek",
+          "prices": [
+            "$11.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Buffalo Trace",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Wednesday",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "13th Century Barrel Strength",
+          "prices": [
+            "$14.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Breckenridge",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Col. Taylor Small Batch",
+          "prices": [
+            "$15.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Eagle Rare Single Barrel",
+          "prices": [
+            "$13.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Maker’s Mark",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Basil Hayden’s",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Woodford Reserve",
+          "prices": [
+            "$11.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Henry McKenna 10 Year",
+          "prices": [
+            "$14.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Blanton’s",
+          "prices": [
+            "$15.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Angel’s Envy",
+          "prices": [
+            "$14.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Lucky Seven",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Heaven Hill",
+          "prices": [
+            "$13.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Jefferson Ocean",
+          "prices": [
+            "$14.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Smoke Wagon",
+          "prices": [
+            "$11.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Larceny",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Hirsch",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Belle Meade",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Weller Special Reserve",
+          "prices": [
+            "$16.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Old Soul High Rye",
+          "prices": [
+            "$14.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Stellum",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "WhistlePig PiggyBack",
+          "prices": [
+            "$11.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Booker’s",
+          "prices": [
+            "$17.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Hogsworth",
+          "prices": [
+            "$13.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Middle West 6 Year",
+          "prices": [
+            "$14.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Milam & Greene",
+          "prices": [
+            "$11.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Horse Soldier Barrel Select",
+          "prices": [
+            "$14.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Horse Soldier Small Batch",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Elijah Craig",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        }
+      ],
+      "layout": "compact"
+    },
+    {
+      "name": "Rye",
+      "description": "",
+      "items": [
+        {
+          "name": "Roulette (Well)",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Jefferson’s",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Sazerac",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Templeton",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Knob Creek",
+          "prices": [
+            "$11.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "WhistlePig 10 Year",
+          "prices": [
+            "$17.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "High ’N Wicked",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Smooth Ambler Founders’ ’21",
+          "prices": [
+            "$16.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Milam & Greene",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        }
+      ],
+      "layout": "compact"
+    },
+    {
+      "name": "Whiskey",
+      "description": "",
+      "items": [
+        {
+          "name": "Nelson’s Green Brier",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Brenne (France)",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Pendleton (Canada)",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Mellow Corn",
+          "prices": [
+            "$7.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Jack Daniel’s",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "House-Infused Corn Whiskey",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        }
+      ],
+      "layout": "compact"
+    },
+    {
+      "name": "Irish",
+      "description": "",
+      "items": [
+        {
+          "name": "Jameson",
+          "prices": [
+            "$8.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Jameson Orange",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Jameson Cold Brew",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Jameson Stout",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Green Spot",
+          "prices": [
+            "$13.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Redbreast 12 Year",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "High ’N Wicked Single Malt",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Kentucky Owl Irish Bourbon",
+          "prices": [
+            "$14.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Slane",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        }
+      ],
+      "layout": "compact"
+    },
+    {
+      "name": "Japanese",
+      "description": "",
+      "items": [
+        {
+          "name": "Suntory Ao World Whisky",
+          "prices": [
+            "$15.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Iwai Mars Whisky",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Suntory Toki",
+          "prices": [
+            "$14.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Fukano Whisky",
+          "prices": [
+            "$17.00"
+          ],
+          "description": ""
+        }
+      ],
+      "layout": "compact"
+    },
+    {
+      "name": "Scotch",
+      "description": "Ask about The Waterloo’s private selection of allocated and hard-to-find specialty whiskey.",
+      "items": [
+        {
+          "name": "Johnnie Walker Red",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Johnnie Walker Black",
+          "prices": [
+            "$11.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Glenlivet",
+          "prices": [
+            "$11.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Bank Note Blended",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        }
+      ],
+      "layout": "compact"
+    },
+    {
+      "name": "Rum",
+      "description": "",
+      "items": [
+        {
+          "name": "Atlantis (Well)",
+          "prices": [
+            "$7.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Sailor Jerry",
+          "prices": [
+            "$8.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Barrel-Aged Rum",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Diplomático Blanco",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Diplomático Reserve",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        }
+      ],
+      "layout": "compact"
+    },
+    {
+      "name": "Vodka",
+      "description": "",
+      "items": [
+        {
+          "name": "Taaka (Well)",
+          "prices": [
+            "$7.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Cathead Honeysuckle Vodka",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "House-Infused Jalapeño Vodka",
+          "prices": [
+            "$8.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Ketel One",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Tito’s",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Deep Eddy",
+          "prices": [
+            "$9.00"
+          ],
+          "description": "Peach, lemon, ruby red, or grapefruit."
+        },
+        {
+          "name": "Stoli",
+          "prices": [
+            "$9.00"
+          ],
+          "description": "Vanilla or blueberry."
+        },
+        {
+          "name": "Absolut",
+          "prices": [
+            "$9.00"
+          ],
+          "description": "Tabasco or pear."
+        }
+      ],
+      "layout": "compact"
+    },
+    {
+      "name": "Gin",
+      "description": "",
+      "items": [
+        {
+          "name": "Miles (Well)",
+          "prices": [
+            "$7.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Hendrick’s (Scotland)",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Barrel-Rested Gin (CO)",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Askur Yggdrasil London Dry (Iceland)",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Telluride Rocky Mountain Gin (CO)",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Citadelle French Dry Gin (France)",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Barr Hill (Vermont)",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Colorado Gin (Denver)",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        }
+      ],
+      "layout": "compact"
+    },
+    {
+      "name": "Tequila",
+      "description": "",
+      "items": [
+        {
+          "name": "Suerte Plata (Well)",
+          "prices": [
+            "$7.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "House Jalapeño-Infused Blanco",
+          "prices": [
+            "$8.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Blueberry-Habanero",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "House-Infused Strawberry",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "House-Infused Smoked Pineapple",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Lalo Blanco",
+          "prices": [
+            "$11.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Casamigos Blanco",
+          "prices": [
+            "$11.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Casamigos Reposado",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Casamigos Añejo",
+          "prices": [
+            "$14.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Tequila Ocho Plata",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Tequila Ocho Reposado",
+          "prices": [
+            "$13.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Clase Azul Plata",
+          "prices": [
+            "$16.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Clase Azul Reposado",
+          "prices": [
+            "$20.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Cayeya Reposado",
+          "prices": [
+            "$15.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Cazadores Blanco",
+          "prices": [
+            "$9.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Cazadores Reposado",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Código Blanco",
+          "prices": [
+            "$11.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Código Reposado",
+          "prices": [
+            "$13.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Código Añejo",
+          "prices": [
+            "$15.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Código Rosa",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Mijenta Cristalino",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Mijenta Blanco",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Mijenta Reposado",
+          "prices": [
+            "$12.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Tres Tribus Mezcal",
+          "prices": [
+            "$11.00"
+          ],
+          "description": ""
+        },
+        {
+          "name": "Pura Vida Mezcal",
+          "prices": [
+            "$10.00"
+          ],
+          "description": ""
+        }
+      ],
+      "layout": "compact"
+    }
+  ],
+  "happyHour": {
+    "name": "Happy Hour",
+    "description": "Every day, 3–6 PM. Dine-in only.",
+    "sections": [
+      {
+        "name": "Sliders",
+        "description": "$5 each. Choose your favorite.",
+        "items": [
+          {
+            "name": "Burger Slider",
+            "prices": [
+              "$5.00"
+            ],
+            "description": "All-natural Texas ground chuck mini burger, American cheese, and grilled onions. Gluten-free option available."
+          },
+          {
+            "name": "Pastrami Slider",
+            "prices": [
+              "$5.00"
+            ],
+            "description": "Smoked pastrami, Swiss cheese, and mustard. Gluten-free option available."
+          },
+          {
+            "name": "Meatball Slider",
+            "prices": [
+              "$5.00"
+            ],
+            "description": "Provolone and marinara sauce. Gluten-free option available."
+          }
+        ]
+      },
+      {
+        "name": "Bites for the Table",
+        "description": "",
+        "items": [
+          {
+            "name": "Infamous Poppers",
+            "prices": [
+              "$11.00"
+            ],
+            "description": "Jalapeño peppers, cream cheese, and bacon. Choose ranch, blue cheese, or jelly (gf). No returns if they’re too spicy for you.",
+            "heatLabel": "Extremely Hot"
+          },
+          {
+            "name": "Bad @ss Wings",
+            "prices": [
+              "$14.00"
+            ],
+            "description": "Sauces: chile-lime, Asian five-spice, sriracha honey, or BBQ. Choose ranch or blue cheese (gf)."
+          },
+          {
+            "name": "Hummus Plate",
+            "prices": [
+              "$13.00"
+            ],
+            "description": "House-made hummus, carrots, snap peas, cucumbers, peppers, and pita bread. Gluten-free option available."
+          },
+          {
+            "name": "Fried Okra",
+            "prices": [
+              "$8.00"
+            ],
+            "description": "Breaded, fried okra with chipotle ranch (ve, ngf)."
+          },
+          {
+            "name": "Texas Nachos",
+            "prices": [
+              "$13.00"
+            ],
+            "description": "House-cut corn chips (gf), refried black beans, queso, black olives, guacamole, sour cream, and jalapeños. Add grilled chicken breast, pulled pork, or seasoned ground beef +$7; steak or house-smoked brisket +$12 (gf)."
+          },
+          {
+            "name": "House-Cut Corn Chips (gf)",
+            "prices": [
+              "$11.00"
+            ],
+            "description": "Salsa roja, queso, and guacamole (gf)."
+          },
+          {
+            "name": "Not Your Average Pickle",
+            "prices": [
+              "$10.00"
+            ],
+            "description": "Panko-breaded pickle spears with chipotle ranch (ngf)."
+          },
+          {
+            "name": "Grilled Avocado",
+            "prices": [
+              "$13.00"
+            ],
+            "description": "A whole avocado, goat cheese, green chile honey, and house-cut corn chips (gf) (ve)."
+          },
+          {
+            "name": "Calamari",
+            "prices": [
+              "$12.00"
+            ],
+            "description": "Fried calamari, sriracha mayo, Fresno pepper sauce, and cherry jalapeño peppers (gf)."
+          },
+          {
+            "name": "Cabrona Casa",
+            "prices": [
+              "$13.00"
+            ],
+            "description": "Crispy cornbread, pork green chile, and cotija crumbles (gf)."
+          },
+          {
+            "name": "House Fries",
+            "prices": [
+              "$8.00"
+            ],
+            "description": "Gorgonzola cream sauce (gf). Substitute sweet potato fries +$2 (gf)."
+          },
+          {
+            "name": "Pork Belly Bowl",
+            "prices": [
+              "$12.00"
+            ],
+            "description": "White rice, corn salsa, and microgreens (gf)."
+          },
+          {
+            "name": "Ceviche",
+            "prices": [
+              "$13.00"
+            ],
+            "description": "Mahi-mahi, jalapeño, bell peppers, cilantro, mango, and citrus (gf)."
+          }
+        ]
+      },
+      {
+        "name": "À la Carte Tacos",
+        "description": "$3 each. Choose corn or flour tortillas. Gluten-free without flour tortillas.",
+        "items": [
+          {
+            "name": "Bawk Bawk Street",
+            "prices": [
+              "$3.00"
+            ],
+            "description": "Grilled chicken, raw onions, avocado crema, cotija, and cilantro.",
+            "priceNote": "1 taco"
+          },
+          {
+            "name": "Steak Street",
+            "prices": [
+              "$3.00"
+            ],
+            "description": "Steak, raw onions, avocado crema, cotija, and cilantro.",
+            "priceNote": "1 taco"
+          },
+          {
+            "name": "Pork Street",
+            "prices": [
+              "$3.00"
+            ],
+            "description": "Smoked pork, raw onions, avocado crema, cotija, and cilantro.",
+            "priceNote": "1 taco"
+          },
+          {
+            "name": "Gringo",
+            "prices": [
+              "$3.00"
+            ],
+            "description": "Seasoned ground beef, lettuce, pico de gallo, shredded cheddar, and sour cream.",
+            "priceNote": "1 taco"
+          },
+          {
+            "name": "Mahi Street",
+            "prices": [
+              "$3.00"
+            ],
+            "description": "Blackened mahi-mahi*, white onions, cilantro, and spicy avocado-jalapeño crema.",
+            "priceNote": "1 taco"
+          },
+          {
+            "name": "Cauliflower al Pastor",
+            "prices": [
+              "$3.00"
+            ],
+            "description": "Fried cauliflower, chile-lime sauce, and pineapple slaw.",
+            "priceNote": "1 taco"
+          }
+        ]
+      }
+    ],
+    "dailyOffers": [
+      {
+        "day": "Sunday",
+        "text": "$5 house margaritas during happy hour."
+      },
+      {
+        "day": "Monday",
+        "text": "$5 house margaritas during happy hour."
+      },
+      {
+        "day": "Tuesday",
+        "text": "$5 house margaritas during happy hour."
+      },
+      {
+        "day": "Wednesday",
+        "text": "$5 house margaritas during happy hour."
+      },
+      {
+        "day": "Thursday",
+        "text": "$5 house margaritas during happy hour."
+      },
+      {
+        "day": "Friday",
+        "text": "$5 house margaritas during happy hour."
+      },
+      {
+        "day": "Saturday",
+        "text": "$5 house margaritas all day."
+      }
+    ]
+  },
+  "specials": [
+    {
+      "name": "Monday",
+      "weekday": "Monday",
+      "entries": [
+        {
+          "text": "Grilled chicken BLT with house-made ranch and fries."
+        },
+        {
+          "text": "Low Country Chicken Sandwich: chopped chicken, Swiss cheese, Carolina Gold BBQ sauce, and coleslaw on an Amoroso’s roll."
+        },
+        {
+          "text": "$20 Hampton Rosé (12 oz), with a koozie and straw."
+        }
+      ]
+    },
+    {
+      "name": "Tuesday",
+      "weekday": "Tuesday",
+      "entries": [
+        {
+          "text": "Quesabirria tacos: two tacos on large corn tortillas, served with house-made sauce, rice, and beans."
+        },
+        {
+          "text": "$2 off Old Fashioneds."
+        }
+      ]
+    },
+    {
+      "name": "Wednesday",
+      "weekday": "Wednesday",
+      "entries": [
+        {
+          "text": "Brisket-stuffed avocado: avocado filled with house-smoked brisket, smoked Gouda, and pico de gallo, wrapped in panko breadcrumbs, deep-fried, and topped with poblano crema. Served with black beans and rice."
+        },
+        {
+          "text": "$2 off wine by the glass."
+        }
+      ]
+    },
+    {
+      "name": "Thursday",
+      "weekday": "Thursday",
+      "entries": [
+        {
+          "text": "Central Texas Schnitzel with cilantro pesto and seasonal vegetables."
+        },
+        {
+          "text": "$2 off Tito’s Mules."
+        },
+        {
+          "text": "$1 off all margaritas."
+        }
+      ]
+    },
+    {
+      "name": "Friday",
+      "weekday": "Friday",
+      "entries": [
+        {
+          "text": "Meatball sub: house-made meatballs and sauce on an Amoroso’s roll, topped with provolone and served with fries."
+        },
+        {
+          "text": "$5 red and white sangria all day."
+        }
+      ]
+    },
+    {
+      "name": "Saturday",
+      "weekday": "Saturday",
+      "entries": [
+        {
+          "text": "Barbacoa torta with cilantro pesto and pickled red onions on a toasted telera roll, served with rice and beans."
+        },
+        {
+          "text": "$5 happy hour margaritas all day."
+        }
+      ]
+    },
+    {
+      "name": "Sunday",
+      "weekday": "Sunday",
+      "entries": [
+        {
+          "text": "Brunch, 10 AM–2 PM."
+        },
+        {
+          "text": "$20 bottomless mimosas. Ask about juice options."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,622 @@
+{
+  "food": {
+    "House Cut Chips": {
+      "name": "House-Cut Chips (gf)",
+      "description": "House-made salsa verde, queso, and house-made guacamole (ve, gf)."
+    },
+    "Infamous Poppers": {
+      "description": "Jalapeño peppers, cream cheese, and bacon. Choose ranch, blue cheese, or jelly (gf).",
+      "image": {
+        "src": "assets/infamous-poppers.jpg",
+        "alt": "Infamous Poppers",
+        "source": "https://static.spotapps.co/spots/e3/b1b7c0875240798378ac31ed7b0999/full"
+      },
+      "heatLabel": "Extremely Hot"
+    },
+    "Bad @ss Wings": {
+      "description": "Choose a sauce: chile-lime, Asian five-spice, sriracha honey, or BBQ. Served with ranch or blue cheese (gf).",
+      "image": {
+        "src": "assets/wings.jpg",
+        "alt": "Bad @ss Wings",
+        "source": "https://static.spotapps.co/spots/c5/7bddddfe5e4a88abb2cf71a7cf3d54/full"
+      }
+    },
+    "Hummus Plate": {
+      "description": "House-made hummus, carrots, snap peas, cucumbers, peppers, and pita bread."
+    },
+    "Fried Okra": {
+      "description": "Breaded, fried okra with chipotle ranch (ve)."
+    },
+    "Texas Sized Nachos": {
+      "name": "Texas-Sized Nachos",
+      "description": "House-cut corn chips (gf), refried black beans, queso, black olives, guacamole, sour cream, and jalapeños. Add grilled chicken breast, pulled pork, or seasoned ground beef +$7; steak or house-smoked brisket +$12.",
+      "image": {
+        "src": "assets/nachos.jpg",
+        "alt": "Texas-Sized Nachos",
+        "source": "https://static.spotapps.co/spots/4f/e92bc3cf154e959825a9098cb97cd1/full"
+      }
+    },
+    "He Went to Jared": {
+      "description": "Beer-battered onion rings with sriracha honey and ranch (ve)."
+    },
+    "Not Your Average Pickle": {
+      "description": "Panko-breaded pickle spears with chipotle ranch."
+    },
+    "Grilled Avocado": {
+      "description": "Avocado, goat cheese, green chile honey, and house-cut corn chips (gf) (ve)."
+    },
+    "The Jerk": {
+      "description": "House-smoked beef jerky."
+    },
+    "House Fries": {
+      "description": "Fries with Gorgonzola cream sauce."
+    },
+    "House Sweet Potato Fries": {
+      "description": "Sweet potato fries with Gorgonzola cream sauce."
+    },
+    "Artichoke Dippin": {
+      "name": "Artichoke Dippin’",
+      "description": "House-made artichoke dip served with crostini or corn chips (gf)."
+    },
+    "Cabrona Casa": {
+      "description": "Crispy cornbread smothered in pork green chile with cotija crumbles."
+    },
+    "Calamari": {
+      "description": "Fried calamari, sriracha mayo, Fresno pepper sauce, and cherry jalapeño peppers."
+    },
+    "Tomato Bisque": {
+      "description": "Served with a petite grilled cheese (ve).",
+      "prices": [
+        "$8.00",
+        "$10.00"
+      ],
+      "priceLabels": [
+        "Cup",
+        "Bowl"
+      ]
+    },
+    "Roast Pork Green Chile": {
+      "name": "Roasted Pork Green Chile",
+      "description": "Hatch green chile, poblano peppers, tomato, red onion, cilantro, and cotija. Choose corn or flour tortillas. Add avocado +$2. Gluten-free with corn tortillas.",
+      "prices": [
+        "$8.00",
+        "$10.00"
+      ],
+      "priceLabels": [
+        "Cup",
+        "Bowl"
+      ]
+    },
+    "Brisket": {
+      "name": "Brisket Soup",
+      "description": "House-smoked brisket stew or chowder. Ask your server which is available today.",
+      "prices": [
+        "$8.00",
+        "$10.00"
+      ],
+      "priceLabels": [
+        "Cup",
+        "Bowl"
+      ]
+    },
+    "Soup Du Jour": {
+      "name": "Soup of the Day",
+      "description": "Changes daily. Ask your server for today’s selection.",
+      "prices": [
+        "$8.00",
+        "$10.00"
+      ],
+      "priceLabels": [
+        "Cup",
+        "Bowl"
+      ]
+    },
+    "House": {
+      "name": "House Salad",
+      "description": "Mixed greens, red onions, cucumbers, cherry tomatoes, and carrots (ve, vg, gf)."
+    },
+    "Harvest": {
+      "name": "Harvest Salad",
+      "description": "Spinach, pepitas, cranberries, apple slices, blue cheese crumbles, and maple vinaigrette."
+    },
+    "Santa Fe": {
+      "name": "Santa Fe Salad",
+      "description": "Mixed greens, avocado, pico de gallo, corn and black bean salsa, cotija, tortilla strips, and chipotle ranch (ve).",
+      "image": {
+        "src": "assets/santa-fe-salad.jpg",
+        "alt": "Santa Fe Salad",
+        "source": "https://static.spotapps.co/spots/1c/ce7e1011074751ab5f58bbb1ddb584/full"
+      }
+    },
+    "Caesar": {
+      "name": "Caesar Salad",
+      "description": "Romaine, Parmesan, and croutons tossed in Caesar dressing."
+    },
+    "Outlaw Chopped": {
+      "name": "Outlaw Chopped Salad",
+      "description": "Beef filet, sautéed onions, grilled romaine, lemon, and blue cheese crumbles with house-made ranch."
+    },
+    "Salmon": {
+      "name": "Salmon Salad",
+      "description": "Mango-chutney-glazed Atlantic salmon, mixed greens, blueberries, apple slices, carrots, goat cheese, and blueberry vinaigrette."
+    },
+    "Waterloo *": {
+      "name": "Waterloo*",
+      "description": "½ lb all-natural beef, cheese, lettuce, tomato, onions, and pickles.",
+      "image": {
+        "src": "assets/waterloo-burger.jpg",
+        "alt": "Waterloo",
+        "source": "https://static.spotapps.co/spots/71/33b830a83f4e1ead7a7ebcef8ffd41/full"
+      }
+    },
+    "Colorado Bison *": {
+      "name": "Colorado Bison*",
+      "description": "½ lb all-natural bison, red-wine-braised onions, Swiss cheese, mushrooms, and demi-glace."
+    },
+    "Fuego *": {
+      "name": "Fuego*",
+      "description": "½ lb all-natural beef, guacamole, fresh jalapeños, pico de gallo, pepper jack, lettuce, and chipotle ranch."
+    },
+    "Brunch *": {
+      "name": "Brunch*",
+      "description": "½ lb all-natural beef, hash browns, bacon, fried egg, and American cheese."
+    },
+    "Beyond Burger": {
+      "description": "Meatless Beyond Burger, cheese, lettuce, tomato, onions, and pickles."
+    },
+    "Austin Steak Sandwich": {
+      "description": "Choose steak or chicken with green peppers, onions, jalapeños, and queso on an Amoroso’s sourdough hoagie."
+    },
+    "Hot Chicken": {
+      "description": "Spicy, hand-breaded chicken breast, pickles, tomato, lettuce, and mayo."
+    },
+    "Turkey Club": {
+      "description": "House-smoked turkey breast, guacamole, sliced tomatoes, bacon, lettuce, provolone, and remoulade on sourdough."
+    },
+    "Texas Brisket or Pulled Pork or Turkey": {
+      "name": "Texas BBQ Sandwich",
+      "description": "Choose house-smoked brisket, pulled pork, or turkey, served open-faced on white bread. Onion, pickle, and pepperoncini relish and BBQ sauce on the side. Available while supplies last."
+    },
+    "Pastrami Sandwich": {
+      "description": "House-smoked pastrami, Swiss cheese, sauerkraut, pickles, and Dijon mustard on griddled rye bread."
+    },
+    "Crispy Fish Sandwich": {
+      "description": "Panko-breaded cod fillet, cheddar, coleslaw, pickles, and Thousand Island dressing."
+    },
+    "Man in Black ( & Bleu)": {
+      "name": "Man in Black (& Bleu)",
+      "description": "½ lb all-natural beef, blackening seasoning, house-made bacon jam, blue cheese crumbles and sauce, and sautéed mushrooms."
+    },
+    "4oz Gorgonzola Dip": {
+      "name": "Gorgonzola Dip (4 oz)"
+    },
+    "4oz Queso": {
+      "name": "Queso (4 oz)"
+    },
+    "Side Mac and Cheese": {
+      "name": "Mac & Cheese"
+    },
+    "Steak Street*": {
+      "priceNote": "3 tacos",
+      "description": "Carne asada*, white onions, cilantro, spicy avocado-jalapeño crema, and cotija. Served on corn tortillas; flour tortillas available.",
+      "image": {
+        "src": "assets/steak-street-tacos.jpg",
+        "alt": "Steak Street",
+        "source": "https://static.spotapps.co/spots/7a/ca4849760847db8b934cc524d2f76a/full"
+      }
+    },
+    "Pork Street": {
+      "priceNote": "3 tacos",
+      "description": "Pulled pork, white onions, cilantro, spicy avocado-jalapeño crema, and cotija. Served on corn tortillas; flour tortillas available."
+    },
+    "Mahi Street*": {
+      "priceNote": "3 tacos",
+      "description": "Blackened mahi-mahi*, white onions, cilantro, and spicy avocado-jalapeño crema. Served on corn tortillas; flour tortillas available."
+    },
+    "Cauliflower Al Pastor": {
+      "priceNote": "3 tacos",
+      "name": "Cauliflower al Pastor",
+      "description": "Fried cauliflower, chile-lime sauce, and pineapple slaw. Served on corn tortillas; flour tortillas available."
+    },
+    "Gringo": {
+      "priceNote": "3 tacos",
+      "description": "Seasoned ground beef, lettuce, pico de gallo, shredded cheddar, and sour cream. Served on flour tortillas; corn tortillas available. Add rice and beans +$4."
+    },
+    "Bawk Bawk": {
+      "priceNote": "3 tacos",
+      "description": "Grilled chicken, white onions, cilantro, cotija, and avocado-jalapeño crema. Served on corn tortillas; flour tortillas available."
+    },
+    "Taco Bowl": {
+      "description": "Choose any of our signature taco fillings, served over white rice with corn and black bean salsa. Served without tortillas."
+    },
+    "Yard Bird": {
+      "description": "Bacon-habanero-glazed half chicken with mashed potatoes and coleslaw."
+    },
+    "Filet Frites*": {
+      "name": "Filet*",
+      "description": "8 oz choice beef filet* served with seasonal vegetables and topped with chimichurri."
+    },
+    "Stir-Fry Bowl": {
+      "description": "House-made miso sauce, broccoli, snap peas, carrots, celery, onions, garlic, and yakisoba noodles (ve). Add tofu, grilled chicken breast, or pulled pork +$7; crispy cod +$8; or house-smoked brisket, steak*, or grilled salmon* +$12."
+    },
+    "Steak Street Mac & Cheese": {
+      "description": "Carne asada*, cavatappi pasta, three-cheese sauce, and breadcrumbs. Add avocado or bacon +$2.",
+      "image": {
+        "src": "assets/steak-mac-cheese.jpg",
+        "alt": "Steak Street Mac & Cheese",
+        "source": "https://static.spotapps.co/spots/9f/fea980114042a98ca8a40ca7da01cb/full"
+      }
+    },
+    "Adult Corndog Dinner": {
+      "name": "Adult Corn Dog Dinner",
+      "description": "Two corn dogs, fried okra, and a side Caesar salad."
+    },
+    "Waterloo Bowl": {
+      "description": "White rice, corn and black bean salsa, guacamole, sour cream, and cilantro. Add grilled peppers and onions or mushrooms +$1; tofu, grilled chicken breast, or pulled pork +$7; crispy cod +$8; mahi-mahi +$10; or house-smoked brisket, grilled salmon*, or steak* +$12."
+    },
+    "Truck Stop Enchiladas": {
+      "description": "Cheddar, corn tortillas, Texas red sauce, fried egg, white onions, guacamole, and sour cream. Served with rice and beans. Add seasoned ground beef, grilled chicken breast, or pulled pork +$7; or house-smoked brisket, grilled salmon*, or steak* +$12.",
+      "image": {
+        "src": "assets/enchiladas.jpg",
+        "alt": "Truck Stop Enchiladas",
+        "source": "https://static.spotapps.co/spots/91/ac875586594aa294c61444956e8f4f/full"
+      }
+    },
+    "Atlantic Salmon*": {
+      "description": "Grilled Atlantic salmon, Asian glaze, snap peas, broccoli, and white rice.",
+      "image": {
+        "src": "assets/atlantic-salmon.jpg",
+        "alt": "Atlantic Salmon",
+        "source": "https://static.spotapps.co/spots/b8/d04e2e4d0a4a41a67e97afc952615d/full"
+      }
+    },
+    "BBQ Platter": {
+      "description": "House-smoked brisket, turkey, and pulled pork with white bread and onion rings. Onion, pickle, and pepperoncini relish and BBQ sauce on the side. Available while supplies last.",
+      "image": {
+        "src": "assets/bbq-platter.jpg",
+        "alt": "BBQ Platter",
+        "source": "https://static.spotapps.co/spots/70/f5b9ff3a94441cb21e99940abf7aa6/full"
+      }
+    },
+    "PB & J": {
+      "name": "PB & J",
+      "description": "Peanut butter and jelly sandwich served with fresh fruit."
+    },
+    "Corn Dog": {
+      "description": "Cornbread-crusted all-beef hot dog with fries."
+    },
+    "Grilled Cheese": {
+      "description": "American cheese on white bread, served with tomato bisque."
+    },
+    "Mac & Cheese": {
+      "description": "Three-cheese sauce, cavatappi pasta, and broccoli."
+    },
+    "Cheeseburgers *": {
+      "name": "Cheeseburgers*",
+      "description": "Two mini all-natural beef burgers with American cheese and fries."
+    },
+    "Cheese Quesadilla": {
+      "description": "Cheddar in a flour tortilla, served with black beans."
+    },
+    "kid tomato bisque": {
+      "name": "Tomato Bisque"
+    },
+    "mac n cheese": {
+      "name": "Mac & Cheese"
+    },
+    "mashed potato": {
+      "name": "Mashed Potatoes"
+    },
+    "side house/ceaser": {
+      "name": "House or Caesar Salad"
+    },
+    "Miller High Life - Pony": {
+      "name": "Miller High Life Pony"
+    },
+    "Bites for The Table": {
+      "name": "Bites for the Table",
+      "description": "",
+      "prices": [
+        "$2 off"
+      ]
+    },
+    "A La Cart Tacos": {
+      "priceNote": "1 taco",
+      "name": "À La Carte Taco",
+      "description": "One taco per order. Choose corn or flour tortillas."
+    },
+    "Chocolate Cake": {
+      "description": "Whipped cream and chocolate sauce. Gluten-free option available."
+    },
+    "Key Lime Pie": {
+      "description": "Key lime pie in a jar with a graham cracker crust and whipped cream. Gluten-free option available."
+    },
+    "Brown Butter Bourbon Pecan Chocolate Chunk Cookie": {
+      "description": "Warm cookie with vanilla ice cream and a caramel drizzle. Gluten-free option available."
+    },
+    "Root Beer Float": {
+      "description": "Vanilla ice cream and Henry Weinhard’s gourmet root beer."
+    },
+    "Bananananananana cake": {
+      "name": "Bananananananana Cake",
+      "description": "Cinnamon cream cheese icing. Gluten-free option available."
+    },
+    "Draft Beer": {
+      "prices": [
+        "$1 off"
+      ],
+      "description": ""
+    }
+  },
+  "drinks": {
+    "Waterloo Margarita": {
+      "description": "Suerte Blanco tequila, triple sec, agave nectar, and lime juice."
+    },
+    "Lone Star": {
+      "description": "100% agave tequila infused with jalapeño, St. Germain, agave nectar, fresh cucumber juice, lime juice, cucumber, and fresh jalapeño."
+    },
+    "Blueberry-Habanero": {
+      "description": "100% agave tequila infused with blueberries and habaneros, triple sec, agave nectar, lime juice, and orange juice."
+    },
+    "Mango-Rita": {
+      "description": "Suerte Blanco tequila, triple sec, mango purée, lime juice, agave nectar, and a Tajín rim."
+    },
+    "Blood Orange": {
+      "description": "Suerte Blanco tequila, triple sec, Natalie’s Organic blood orange juice, lime juice, and agave nectar."
+    },
+    "Cactus Smoke": {
+      "description": "400 Conejos mezcal, triple sec, agave nectar, lime juice, and orange juice."
+    },
+    "Strawberry": {
+      "description": "House-infused strawberry tequila, triple sec, strawberry purée, lime juice, and agave nectar."
+    },
+    "Cucumber Lemonade": {
+      "description": "Hendrick’s gin, St. Germain, cucumber, lemon juice, and raw cane syrup."
+    },
+    "Barrel Rested Negroni": {
+      "name": "Barrel-Rested Negroni",
+      "description": "House barrel-rested gin, Aperol, Carpano Antica sweet vermouth, and orange peel."
+    },
+    "Texas Tea": {
+      "description": "Deep Eddy Peach vodka, lemonade, and iced tea."
+    },
+    "Aperol Spritz": {
+      "description": "Aperol, Regans’ orange bitters, prosecco, and soda water."
+    },
+    "Hawaiian Cowboy": {
+      "description": "Tequila infused with house-smoked pineapple, soda water, and lime."
+    },
+    "Loominade": {
+      "description": "House vodka, Luxardo cherry juice, and lemonade."
+    },
+    "Michelada Long Time": {
+      "description": "805 Cerveza, lime juice, and house-made Bloody Mary mix, served over ice with a salted rim."
+    },
+    "Orange Whip": {
+      "description": "Stoli Vanilla vodka and orange juice."
+    },
+    "Honeysuckle Rose": {
+      "description": "Cathead Honeysuckle vodka, lemon juice, simple syrup, and a splash of soda water."
+    },
+    "Red Sangria": {
+      "description": "Red wine, rum, brandy, fresh juices, and fruit."
+    },
+    "White Sangria": {
+      "description": "White wine, Deep Eddy Peach vodka, fresh fruit, and juices."
+    },
+    "Red Faced Willie": {
+      "name": "Red-Faced Willie",
+      "description": "House-infused strawberry tequila, fresh lemonade, and a splash of summertime."
+    },
+    "Espresso Martini": {
+      "description": "Stoli Vanilla vodka, espresso, and Kahlúa."
+    },
+    "Folsum Cherry Blues": {
+      "name": "Folsom Cherry Blues",
+      "description": "Leopold Bros. blackberry whiskey, lemon juice, simple syrup, and spiced cherry bitters."
+    },
+    "Cocunut Canon": {
+      "name": "Coconut Canon",
+      "description": "400 Conejos mezcal, coconut liqueur, mint, pineapple, lime, and Coco Reàl."
+    },
+    "Mango D'Jango": {
+      "description": "House barrel-aged rum, mango purée, passion fruit bitters, and raw cane syrup."
+    },
+    "Salty Pecan": {
+      "description": "Blackland Texas Brown Sugar-Pecan bourbon, Blackland 100 Proof rye, and saltwater tincture."
+    },
+    "Screen Door": {
+      "description": "Absolut Pear vodka, lemonade, apple juice, and soda water."
+    },
+    "Colorado Manhattan": {
+      "description": "Breckenridge bourbon, Carpano Antica sweet vermouth, aromatic and orange bitters, lemon peel, and a house-smoked Luxardo cherry."
+    },
+    "O Sazerac": {
+      "description": "Roulette rye, Leopold Bros. absinthe, orange bitters, raw cane syrup, and orange peel."
+    },
+    "Rocky Mountain Lemonade": {
+      "description": "Leopold Bros. Rocky Mountain Blackberry whiskey and house-made lemonade."
+    },
+    "The Standard": {
+      "description": "Roulette rye, aromatic and orange bitters, raw cane syrup, orange peel, and a Luxardo cherry."
+    },
+    "The Grandfather": {
+      "description": "Knob Creek rye, aromatic and orange bitters, raw cane syrup, orange peel, and a Luxardo cherry."
+    },
+    "Humoso Viejo": {
+      "description": "400 Conejos mezcal, aromatic and orange bitters, raw cane syrup, orange peel, and a house-smoked Luxardo cherry."
+    },
+    "Old Grove": {
+      "description": "Barrel-rested gin, grapefruit bitters, raw cane syrup, lemon peel, and a Luxardo cherry."
+    },
+    "Mellotes": {
+      "description": "Mellow Corn whiskey infused with grilled Colorado corn, with roasted jalapeño and serrano bitters."
+    },
+    "City Boy": {
+      "description": "House barrel-aged rum, raw cane syrup, Angostura bitters, and lemon peel. Tastes like Christmas."
+    },
+    "The Hogfater": {
+      "name": "The Hogfather",
+      "description": "Hogsworth bourbon and Armagnac, raw cane syrup, and Angostura bitters."
+    },
+    "BEE Merry": {
+      "description": "Barr Hill gin, Journeyman apple cider liqueur, and lemon juice."
+    },
+    "Holidaze Old Fashioned": {
+      "description": "House barrel-aged rum, raw cane syrup, Angostura bitters, and lemon peel."
+    },
+    "Waterloo Red": {
+      "description": "Ask your server for today’s selection."
+    },
+    "Pinot Noir (Ca)": {
+      "name": "Pinot Noir (CA)",
+      "description": "Fresh strawberries, Bing cherries, violet candy, and toasted bread."
+    },
+    "Malbec (Arg)": {
+      "name": "Malbec (Argentina)",
+      "description": "Plum, cherry, rosemary, and chocolate aromas, with cassis, vanilla, and spiced dark fruit on the palate."
+    },
+    "Cabernet (CA)": {
+      "description": "Full-bodied, with currant, blackberry, tobacco, chocolate, and cedar notes."
+    },
+    "Zin-Cab blend (CA)": {
+      "name": "Zin-Cab Blend (CA)",
+      "description": "Black fruit, earthy notes, round tannins, and a smooth, spicy finish."
+    },
+    "Tempranillo (Spain)": {
+      "description": "Ripe fruit, lavender, and cherry, balanced with cedar and tobacco."
+    },
+    "Merlot (Ca)": {
+      "name": "Merlot (CA)",
+      "description": "Blackcurrant and cherry lead to lasting, toasty, smoky layers."
+    },
+    "Waterloo White": {
+      "description": "Ask your server for today’s selection."
+    },
+    "Chardonnay (CA) (ask server for todays selection": {
+      "name": "Chardonnay (CA)",
+      "description": "Apricot, citrus, green apple, honeysuckle, and cinnamon. Ask your server for today’s selection."
+    },
+    "Ocean Road Sauvignon Blanc (AUS)": {
+      "name": "Ocean Road Sauvignon Blanc (Australia)",
+      "description": "Citrus aromas with hints of apple and tropical fruit."
+    },
+    "Pinot Grigio (Italy)": {
+      "description": "Clean, crisp aromas of apple, citrus, and peach."
+    },
+    "Rose ( ask server)": {
+      "name": "Rosé",
+      "description": "Rose petal, pomegranate, and berry notes. Ask your server for today’s selection."
+    },
+    "Domaine Chandon Brut (CA)": {
+      "description": "Apple, pear, and citrus with a soft, dry finish."
+    },
+    "Prosecco": {
+      "description": "Dry sparkling wine with crisp acidity and low sugar."
+    },
+    "Machio Prosecco (Bubbly Rose)": {
+      "name": "Maschio Prosecco (Sparkling Rosé)",
+      "description": "Vibrant red fruit with hints of flowers and berries."
+    },
+    "Bell's 2 Hearted": {
+      "name": "Bell’s Two Hearted"
+    },
+    "Aval Rose Cider": {
+      "name": "Aval Rosé Cider"
+    },
+    "Crystal Springs Blood Orange Kolsch": {
+      "name": "Crystal Springs Blood Orange Kölsch"
+    },
+    "Avery White Rascal": {
+      "description": "Belgian-style wheat beer."
+    },
+    "Guinness 0 NA": {
+      "name": "Guinness 0.0 (Nonalcoholic)"
+    },
+    "Montucky Cold Snack": {
+      "prices": [
+        "$4.00 / 16 oz"
+      ]
+    },
+    "Schilling london dry Cider": {
+      "name": "Schilling London Dry Cider"
+    },
+    "Assorted Gluten Free Beer": {
+      "name": "Assorted Gluten-Free Beers",
+      "description": "Ask your server for today’s selection."
+    },
+    "Assorted Non Alcoholic Beers": {
+      "name": "Assorted Nonalcoholic Beers",
+      "description": "Ask your server for today’s selection."
+    },
+    "Bud/Bud Light": {
+      "name": "Budweiser / Bud Light"
+    },
+    "Miller High Life - Pony 7oz": {
+      "name": "Miller High Life Pony (7 oz)"
+    },
+    "Daura Damm Lager": {
+      "description": "Gluten-removed beer."
+    },
+    "Superior": {
+      "description": "Mexican lager."
+    },
+    "Weller 12 Year": {
+      "name": "Weller 12 Year"
+    },
+    "Sazarac Rye": {
+      "name": "Sazerac Rye"
+    },
+    "Whistle Pig": {
+      "name": "WhistlePig"
+    },
+    "Laphroig 10 yr": {
+      "name": "Laphroaig 10 Year"
+    },
+    "Macallan 12yr": {
+      "name": "Macallan 12 Year"
+    },
+    "Nikka Taketsura": {
+      "name": "Nikka Taketsuru"
+    },
+    "Nika Coffey Grain": {
+      "name": "Nikka Coffey Grain"
+    },
+    "Kavlan Classical": {
+      "name": "Kavalan Classic"
+    },
+    "Kavlan Ex Bourbon Barrel": {
+      "name": "Kavalan Ex-Bourbon Barrel"
+    },
+    "Stranahan's": {
+      "name": "Stranahan’s"
+    },
+    "Jalapeno Vodka": {
+      "name": "Jalapeño Vodka"
+    },
+    "Castle N Key": {
+      "name": "Castle & Key"
+    },
+    "Barrel Rested Gin": {
+      "name": "Barrel-Rested Gin"
+    },
+    "Ocho Repasado": {
+      "name": "Ocho Reposado"
+    }
+  },
+  "specials": {
+    "Daily Specials! $1 off Margaritas": "$1 off house and specialty margaritas. Excludes happy hour pricing.",
+    "Grilled Chicken BLT with Ranch and Fries": "Grilled chicken BLT with ranch and fries.",
+    "Daily Specials! $2 Off Old Fashioneds": "$2 off Old Fashioneds.",
+    "Daily Special!!! Quesabirria tacos! Chicken ,Pork ir Seasoned Beef. with rice and beans": "Quesabirria tacos with your choice of chicken, pork, or seasoned ground beef, served with rice and beans.",
+    "$2 Off All Glasses Of Wine": "$2 off all glasses of wine.",
+    "Daily Special! Brisket Stuffed Avocados: house-smoked brisket, smoked gouda, panko bread crumbs, poblano crema, black beans, rice": "Brisket-stuffed avocados with house-smoked brisket, smoked Gouda, panko breadcrumbs, and poblano crema, served with black beans and rice.",
+    "Daily Specials! $1 off Titos Mule": "$1 off Tito’s Mules.",
+    "Daily Specials! $3 Mystery Can": "$3 mystery can.",
+    "Meatball Subs! House made meatballs and sauce on an Amarosa roll topped with provolone cheese , served with fries": "Meatball sub with house-made meatballs and sauce on an Amoroso’s roll, topped with provolone and served with fries.",
+    "Daily Specials! $7 Bloody Mary, $6 Mimosas, $5 House Margarita": "$7 Bloody Marys, $6 mimosas, and $5 house margaritas.",
+    "Barbacoa Platter -served with rice and beans and tortillas": "Barbacoa platter served with rice, beans, and tortillas.",
+    "Drink Special! $20 Bottomless Mimosa": "$20 bottomless mimosas.",
+    "BRUNCH 10-1:30 FULL MENU 2-CLOSE $20 Bottomless Mimosas": "Sunday brunch."
+  }
+}

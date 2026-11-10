@@ -1,0 +1,20 @@
+.DS_Store
+node_modules/
+*.log
+content.tmp
+
+__pycache__/
+*.pyc
+
+dist/
+.wrangler/
+
+# Private credentials and local recovery archives never belong in source control.
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+*.pem
+*.key
+backups/

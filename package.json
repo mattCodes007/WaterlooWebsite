@@ -1,0 +1,17 @@
+{
+  "name": "waterloo-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A basic local website for The Waterloo in Louisville, Colorado.",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node --check app.js && node --check content.js && node --check schedule.js && node --check server.mjs && node --check scripts/build.mjs && node --check scripts/check-security.mjs",
+    "sync-content": "python3 scripts/sync_content.py",
+    "test": "node --test scripts/test_schedule.cjs scripts/test_photo_menus.cjs scripts/test_security.cjs",
+    "build": "node scripts/build.mjs && node scripts/check-security.mjs",
+    "security:live": "node scripts/check-security.mjs --live",
+    "backup": "npm run build && node scripts/backup.mjs",
+    "deploy:cloudflare": "npm run check && npm test && npm run build && npx wrangler pages deploy dist --project-name waterloo-louisville"
+  }
+}
